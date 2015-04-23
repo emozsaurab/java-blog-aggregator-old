@@ -33,6 +33,5 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="F:/academic books and videos/jars/servlet-api/servlet-api.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
