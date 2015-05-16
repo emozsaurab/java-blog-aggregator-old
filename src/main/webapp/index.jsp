@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello from spring
+hello
 </body>
 </html>
